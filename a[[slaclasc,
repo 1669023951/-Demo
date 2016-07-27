@@ -1,0 +1,54 @@
+[33mcommit ad13886028c4f6046a83bb362aab9c3422e083d4[m
+Merge: d4b582a cb2f297
+Author: hzt <1669023951@qq.com>
+Date:   Wed Jul 27 11:22:16 2016 +0800
+
+    conflict fixed
+
+[33mcommit d4b582a03e91b6dc0d87e8f4b97aaf554ccb7d4e[m
+Author: hzt <1669023951@qq.com>
+Date:   Wed Jul 27 11:18:04 2016 +0800
+
+    add the string 999999999999
+
+[33mcommit cb2f297b6c6b5dec7f48f80d0196eb8be8331f13[m
+Author: hzt <1669023951@qq.com>
+Date:   Wed Jul 27 11:16:33 2016 +0800
+
+    add the string 888888888
+
+[33mcommit 340bec4c6eacf8d67a3da464f101ca00d1ec987f[m
+Author: hzt <1669023951@qq.com>
+Date:   Wed Jul 27 11:10:53 2016 +0800
+
+    we add a string 77777 in dev branch
+
+[33mcommit 3c006043f4df28be47774af4d574741509fd5037[m
+Author: hzt <1669023951@qq.com>
+Date:   Tue Jul 26 16:59:56 2016 +0800
+
+    a file will be delete
+
+[33mcommit 6230e1d8edf8827361178e012b10efa503c01a79[m
+Author: hzt <1669023951@qq.com>
+Date:   Tue Jul 26 16:53:16 2016 +0800
+
+    push all file at a time
+
+[33mcommit c85dc791d9b2750c8c79a214fc050f059d4806bc[m
+Author: hzt <1669023951@qq.com>
+Date:   Tue Jul 26 16:38:00 2016 +0800
+
+    new change in the file readme.txt
+
+[33mcommit 69ffc98da825a8fd0cc2d899e857571b47c2c45d[m
+Author: hzt <1669023951@qq.com>
+Date:   Tue Jul 26 16:32:19 2016 +0800
+
+    the string 2222222 is added to file
+
+[33mcommit 63758495dddc06c525a1163225c55f8d50ce3ce3[m
+Author: hzt <1669023951@qq.com>
+Date:   Tue Jul 26 16:27:01 2016 +0800
+
+    readme.text push
